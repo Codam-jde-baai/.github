@@ -1,9 +1,23 @@
 ## Hi there 👋
 
+This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study, and core programming concepts in C & C++.
+
+### Some defining CODAM projects for me were minishell, cub3d, and webserv.
+
+*Minishell* was the first team project and my first BIG coding project with many different parts. Working on minishell involved many complete project rewrites and gaining a deeper understanding of bash. Together with my project partner, we introduced our own vector data type in C to make parsing, expanding, and processing inputs easier.
+
+*cub3d* was a team project, but because it could be easily separated into parsing and rendering, it felt more like a solo project. The project was very interesting as I implemented a custom raycasting algorithm, which was a big challenge but also lots of fun. The satisfaction of creating a working (simple) game that runs smoothly felt like an amazing accomplishment.
+
+*webserv* is a team project where I collaborated extensively and gained a greater understanding of how websites and servers work. Webserv involves handling multiple server addresses and multiple clients, reading and interpreting an HTTP request, and generating an appropriate response. This project has been a lot of fun so far because it's the first big project where I can implement my C++ skills and build C++ classes much larger than in the modules. It's also exciting to be constantly learning about how HTTP and managing connections through `epoll()` work.
+
+Below is a list of all the projects I have completed so far at CODAM. I am currently still working on webserv and inception. Once these two are finished before the end of the year, I can start my final project.
 
 
 
-# CODAM Projects
+
+
+
+## CODAM Projects
 
 | Project        | Details                                                                 |
 |--------------------|-------------------------------------------------------------------------|
