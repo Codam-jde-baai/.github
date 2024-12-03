@@ -2,6 +2,8 @@
 
 This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study and core programming concepts in C & C++.
 
+[CODAM](https://www.codam.nl/)
+
 #### Some defining CODAM projects for me were minishell, cub3d, and webserv.
 
 *Minishell* was the first team project and my first BIG coding project with many different parts. Working on minishell involved many complete project rewrites and gaining a deeper understanding of bash. Together with my project partner, we introduced our own vector data type in C to make parsing, expanding, and processing inputs easier. This project really forced me to make a good plan for the project architecture and to write robust code that was easy to update and rewrite where necessary.
