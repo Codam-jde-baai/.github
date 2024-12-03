@@ -1,4 +1,27 @@
-## Hi there 👋
+# Codam Project of Julius de Baaij, Hi there 👋
+
+### About Me
+ - I love turning an idea into funtional code, thinking about the implementation of projects and code-ideas gets me higly motivated
+ - Experienced in C-programming and in the process of becoming a great C++ programmer
+ - I love low-level programming languages as they give you a lot of freedom and if something doesn't work its entirely on you.
+ - Starting my last Codam Project (Transendence) in a few weeks, actively looking for a job opportunity for february.
+ - I occasionally give a CODAM workshop on starter-level python using the [pixelcorp workshop](https://github.com/pixelcorp-nl/canvas.edu)
+
+### Languages
+- I have a good understanding of C and CPP, I have used python for a few small projects but don't have a broad understanding of it.
+
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### Connect with me
+
+[![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-de-baaij-44a02a215/)  
+
+
+# My codam projects
+
+
 
 This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study and core programming concepts in C & C++.
 
