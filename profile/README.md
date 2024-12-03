@@ -1,4 +1,4 @@
-# Codam Project of Julius de Baaij, Hi there 👋
+# Codam Projects of Julius de Baaij, Hi there 👋
 
 ### About Me
  - I love turning an idea into funtional code, thinking about the implementation of projects and code-ideas gets me higly motivated
@@ -13,6 +13,17 @@
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+### other related skills
+- Git: for all of my teamprojects we used repositories with branches and pull requests
+- Bash: I have been using the bash terminal since the start of CODAM
+- VScode: VScode is my main IDE for all of my projects.
+- LLM: I use a VScode wrapper called cursor to incorporate chatGPT into my code editor with an API key, this allows me to efficiently improve my code using AI.
+
+	[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](#)
+[![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=fff)](#)
+[![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/Visual%20Studio%20Code-0078d7.svg?logo=vsc&logoColor=white)](#)
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?logo=openai&logoColor=white)](#)
 
 ### Connect with me
 
