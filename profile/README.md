@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study, and core programming concepts in C & C++.
+This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study and core programming concepts in C & C++.
 
 #### Some defining CODAM projects for me were minishell, cub3d, and webserv.
 
