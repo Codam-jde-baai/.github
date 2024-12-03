@@ -15,7 +15,7 @@ This is where I display all of my CODAM projects. Codam is a school that is part
 
 
 ##### Below is a list of all the projects I have completed so far at CODAM. I am currently still working on webserv and inception. Once these two are finished before the end of the year, I can start my final project.
-
+*note: most of these projects were in my private mono repo, I moved them to display but because of that there is no commit-history to review*
 
 
 
