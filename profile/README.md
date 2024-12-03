@@ -21,7 +21,8 @@
 
 # My codam projects
 
-![CODAM_LOGO](https://github.com/user-attachments/assets/937e48ff-4de0-4b56-9915-44ebc2ce3497)
+
+![codam-logo_wit](https://github.com/user-attachments/assets/af5a5f93-228c-4835-9a29-6ebde5ec6fe7)
 
 
 This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study and core programming concepts in C & C++.
