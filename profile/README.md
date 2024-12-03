@@ -19,15 +19,12 @@
 [![Linkedin](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/julius-de-baaij-44a02a215/)  
 
 
-# My codam projects
-
-
-![codam-logo_wit](https://github.com/user-attachments/assets/af5a5f93-228c-4835-9a29-6ebde5ec6fe7)
-
+# My codam projects 
 
 This is where I display all of my CODAM projects. Codam is a school that is part of the 42-school network, which encourages peer-to-peer learning, self-study and core programming concepts in C & C++.
 
-[CODAM](https://www.codam.nl/)
+#### visit codam
+[<img src="https://github.com/user-attachments/assets/af5a5f93-228c-4835-9a29-6ebde5ec6fe7" alt="codam-logo_wit" width="120" />](https://www.codam.nl)
 
 #### Some defining CODAM projects for me were minishell, cub3d, and webserv.
 
